@@ -1,1 +1,1 @@
-Here are some the project from SoftUni and Telerik courses
+Here are some of the projects from SoftUni and Telerik courses
