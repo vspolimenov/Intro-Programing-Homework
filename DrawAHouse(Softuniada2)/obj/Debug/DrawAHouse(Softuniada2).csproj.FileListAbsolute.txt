@@ -1,0 +1,6 @@
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\DrawAHouse(Softuniada2)\bin\Debug\DrawAHouse(Softuniada2).exe.config
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\DrawAHouse(Softuniada2)\bin\Debug\DrawAHouse(Softuniada2).exe
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\DrawAHouse(Softuniada2)\bin\Debug\DrawAHouse(Softuniada2).pdb
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\DrawAHouse(Softuniada2)\obj\Debug\DrawAHouse(Softuniada2).csprojResolveAssemblyReference.cache
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\DrawAHouse(Softuniada2)\obj\Debug\DrawAHouse(Softuniada2).exe
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\DrawAHouse(Softuniada2)\obj\Debug\DrawAHouse(Softuniada2).pdb
