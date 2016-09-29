@@ -1,0 +1,6 @@
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\FireInTheMatrix\bin\Debug\FireInTheMatrix.exe.config
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\FireInTheMatrix\bin\Debug\FireInTheMatrix.exe
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\FireInTheMatrix\bin\Debug\FireInTheMatrix.pdb
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\FireInTheMatrix\obj\Debug\FireInTheMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\FireInTheMatrix\obj\Debug\FireInTheMatrix.exe
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\FireInTheMatrix\obj\Debug\FireInTheMatrix.pdb
