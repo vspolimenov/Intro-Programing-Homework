@@ -1,0 +1,6 @@
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\TwoGirlsOnePath\bin\Debug\TwoGirlsOnePath.exe.config
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\TwoGirlsOnePath\bin\Debug\TwoGirlsOnePath.exe
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\TwoGirlsOnePath\bin\Debug\TwoGirlsOnePath.pdb
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.csprojResolveAssemblyReference.cache
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.exe
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\TwoGirlsOnePath\obj\Debug\TwoGirlsOnePath.pdb
