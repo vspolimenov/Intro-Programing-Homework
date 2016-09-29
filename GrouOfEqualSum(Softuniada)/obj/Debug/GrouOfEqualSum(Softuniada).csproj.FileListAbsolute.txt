@@ -1,0 +1,6 @@
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\GrouOfEqualSum(Softuniada)\bin\Debug\GrouOfEqualSum(Softuniada).exe.config
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\GrouOfEqualSum(Softuniada)\bin\Debug\GrouOfEqualSum(Softuniada).exe
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\GrouOfEqualSum(Softuniada)\bin\Debug\GrouOfEqualSum(Softuniada).pdb
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\GrouOfEqualSum(Softuniada)\obj\Debug\GrouOfEqualSum(Softuniada).csprojResolveAssemblyReference.cache
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\GrouOfEqualSum(Softuniada)\obj\Debug\GrouOfEqualSum(Softuniada).exe
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\GrouOfEqualSum(Softuniada)\obj\Debug\GrouOfEqualSum(Softuniada).pdb
