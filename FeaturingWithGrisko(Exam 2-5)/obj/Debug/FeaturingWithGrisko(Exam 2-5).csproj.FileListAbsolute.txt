@@ -1,0 +1,6 @@
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\FeaturingWithGrisko(Exam 2-5)\bin\Debug\FeaturingWithGrisko(Exam 2-5).exe.config
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\FeaturingWithGrisko(Exam 2-5)\obj\Debug\FeaturingWithGrisko(Exam 2-5).csprojResolveAssemblyReference.cache
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\FeaturingWithGrisko(Exam 2-5)\bin\Debug\FeaturingWithGrisko(Exam 2-5).exe
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\FeaturingWithGrisko(Exam 2-5)\bin\Debug\FeaturingWithGrisko(Exam 2-5).pdb
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\FeaturingWithGrisko(Exam 2-5)\obj\Debug\FeaturingWithGrisko(Exam 2-5).exe
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\FeaturingWithGrisko(Exam 2-5)\obj\Debug\FeaturingWithGrisko(Exam 2-5).pdb
