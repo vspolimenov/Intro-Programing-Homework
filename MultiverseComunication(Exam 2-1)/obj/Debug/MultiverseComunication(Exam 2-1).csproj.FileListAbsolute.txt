@@ -1,0 +1,6 @@
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\MultiverseComunication(Exam 2-1)\bin\Debug\MultiverseComunication(Exam 2-1).exe.config
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\MultiverseComunication(Exam 2-1)\bin\Debug\MultiverseComunication(Exam 2-1).exe
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\MultiverseComunication(Exam 2-1)\bin\Debug\MultiverseComunication(Exam 2-1).pdb
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\MultiverseComunication(Exam 2-1)\obj\Debug\MultiverseComunication(Exam 2-1).csprojResolveAssemblyReference.cache
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\MultiverseComunication(Exam 2-1)\obj\Debug\MultiverseComunication(Exam 2-1).exe
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\MultiverseComunication(Exam 2-1)\obj\Debug\MultiverseComunication(Exam 2-1).pdb
