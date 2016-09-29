@@ -1,0 +1,6 @@
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\BaseToBase\bin\Debug\BaseToBase.exe.config
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\BaseToBase\obj\Debug\BaseToBase.csprojResolveAssemblyReference.cache
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\BaseToBase\bin\Debug\BaseToBase.exe
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\BaseToBase\bin\Debug\BaseToBase.pdb
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\BaseToBase\obj\Debug\BaseToBase.exe
+C:\Users\Ме\documents\visual studio 2015\Projects\Intro-Programing-Homework\BaseToBase\obj\Debug\BaseToBase.pdb
